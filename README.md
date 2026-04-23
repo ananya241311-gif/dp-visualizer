@@ -18,6 +18,15 @@ A simple tool to visualize Dynamic Programming techniques (recursion, memoizatio
 1. Clone the repository
 2. Run: python dp_visualizer.py
 
+## Sample Output
+Enter n: 5
+
+Recursion Result: 5, Calls: 15  
+Memoization Result: 5, Calls: 9  
+Tabulation Result: 5  
+
+DP Table: [0, 1, 1, 2, 3, 5]
+
 ## Example
 Input: 5  
 Output: Fibonacci value along with function call comparison
